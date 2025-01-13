@@ -64,3 +64,5 @@ if __name__ == '__main__':
     for msg in messages[:5]:
         sender, subject = extract_subject_sender(service, msg['id'])
         print(f"From: {sender} | Subject: {subject}")
+
+# update 5 - 2025-01-13
