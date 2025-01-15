@@ -66,3 +66,4 @@ if __name__ == '__main__':
         print(f"From: {sender} | Subject: {subject}")
 
 # update 5 - 2025-01-13
+# update 7 - 2025-01-15
