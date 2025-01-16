@@ -32,3 +32,5 @@ class BatchManager:
     def has_pending(self) -> bool:
         """Check if there are unsent emails in batch."""
         return len(self.current_batch) > 0
+
+# update 9 - 2025-01-16
