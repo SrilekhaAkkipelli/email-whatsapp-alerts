@@ -95,3 +95,5 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = EmailAlertApp(root)
     root.mainloop()
+
+# update 13 - 2025-01-17
