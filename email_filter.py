@@ -60,3 +60,5 @@ def format_alert(batch: list) -> str:
     for i, (sender, subject) in enumerate(batch, 1):
         lines.append(f"*{i}.* From: {sender}\n   Subject: {subject}")
     return "\n\n".join(lines)
+
+# update 25 - 2025-01-25
