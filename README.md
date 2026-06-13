@@ -9,13 +9,13 @@ A Python-based automation tool that connects **Gmail** with **WhatsApp** using t
 - **Team:** Akkipelli Srilekha, Challa Sarayu, Potta Nandini
 
 ## Features
-- ✅ Real-time Gmail monitoring using Gmail API
-- ✅ Keyword & sender-based intelligent email filtering
-- ✅ Batch alerts (groups 3 important emails per WhatsApp message)
-- ✅ Daily message limit tracking (Twilio Sandbox: 9 msgs/day)
-- ✅ Duplicate alert prevention
-- ✅ Unread email threshold warning
-- ✅ Simple Tkinter GUI for configuration
+-  Real-time Gmail monitoring using Gmail API
+-  Keyword & sender-based intelligent email filtering
+-  Batch alerts (groups 3 important emails per WhatsApp message)
+-  Daily message limit tracking (Twilio Sandbox: 9 msgs/day)
+-  Duplicate alert prevention
+-  Unread email threshold warning
+-  Simple Tkinter GUI for configuration
 
 ##  Tech Stack
 - Python 3.x
